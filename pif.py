@@ -64,4 +64,4 @@ if __name__ == "__main__":
     print "length of persinfo:     {}".format(len(unique_persinfo))
     print "length of intersection: {}".format(len(intersection))
     print "length of difference:   {}".format(len(difference_pers_no))
-    
+    print
